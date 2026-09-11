@@ -7,7 +7,8 @@
     "UiPath.Excel.Activities": "[3.6.1]",
     "UiPath.System.Activities": "[26.8.0]",
     "UiPath.Testing.Activities": "[25.10.3]",
-    "UiPath.UIAutomation.Activities": "[26.10.3]"
+    "UiPath.UIAutomation.Activities": "[26.10.3]",
+    "UiPath.WebAPI.Activities": "[2.5.2]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -41,50 +42,7 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "23a9a78d-3e09-413c-93aa-e0481ccd405d",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\GetTransactionDataTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "8eea7a6b-b29e-4ab5-b6ac-7b4cd18f1e18",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\InitAllApplicationsTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "e69fdbc2-bf61-47ed-9949-6345b1361b16",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\InitAllSettingsTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "560ea2a6-ebca-4dec-ab82-f78c3ff2bdfe",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\MainTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "46f7e1b0-3a5b-45d5-b3f3-5efa5cc9f624",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\ProcessTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "1bcbac50-953f-4610-8df8-70444497d44d",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
-      }
-    ],
+    "fileInfoCollection": [],
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
